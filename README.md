@@ -13,7 +13,6 @@
 
 ## 📸 Скриншоты
 
-*(Добавьте свои скриншоты работы программы в папку `assets/`)*
 
 ![Screenshot](janskelazne.jpg)  
 ![Screenshot](trutnov_image.jpg)  
@@ -29,3 +28,4 @@
 
 ```bash
 pip install opencv-python pillow pywin32
+
